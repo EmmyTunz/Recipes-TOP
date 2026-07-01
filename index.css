@@ -1,0 +1,33 @@
+body {
+    background-color: #C5B3D3;
+}
+
+h1 {
+    font-family: "century gothic", sans-serif;
+    font-size: 50px;
+    text-align: center;
+    margin-left: 150px;
+}
+
+li {
+    display: block;
+    margin-bottom: 10px;
+    padding: 10px 20px;
+}
+
+#lasagna, #pasta {
+    background-color: #ffec89;
+}
+
+#fried-rice {
+    background-color: rgb(119, 185, 119);
+}
+
+#jollof-rice {
+    background-color: orange;
+}
+
+#noodles {
+    background-color: lightgoldenrodyellow;
+}
+
